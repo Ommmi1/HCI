@@ -1,0 +1,468 @@
+.blogs-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.blogs-blogs {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  background-image: linear-gradient(0deg, rgba(27, 20, 41, 1) 0%, rgba(20, 15, 35, 1) 100%);
+}
+.blogs-divscroll {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.blogs-nav {
+  display: flex;
+  padding: 4.796875px 186px;
+  position: relative;
+  box-shadow: 0px 9.088939666748047px 9.088939666748047px 0px rgba(9, 5, 29, 0.15700000524520874) ;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 0px;
+  background-color: rgba(33, 32, 56, 0.7699999809265137);
+}
+.blogs-div {
+  display: flex;
+  padding: 0 15px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+}
+.blogs-text {
+  color: rgba(199, 112, 240, 1);
+  width: 62px;
+  height: auto;
+  font-size: 19px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  margin-right: 214px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.blogs-div1 {
+  display: flex;
+  padding: 0 20px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.blogs-a {
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-items: flex-end;
+  border-color: transparent;
+  margin-right: 20px;
+}
+.blogs-svg {
+  width: 19px;
+  height: 20px;
+  position: relative;
+  margin-right: 2px;
+}
+.blogs-text02 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 19.200000762939453px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.blogs-a1 {
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 20px;
+}
+.blogs-svg1 {
+  width: 20px;
+  height: 19px;
+  position: relative;
+  margin-right: 2px;
+}
+.blogs-text04 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 19.200000762939453px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.blogs-a2 {
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 20px;
+}
+.blogs-svg2 {
+  width: 20px;
+  height: 24px;
+  position: relative;
+  margin-right: 13px;
+}
+.blogs-text06 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 19.200000762939453px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.blogs-a3 {
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 20px;
+}
+.blogs-svg3 {
+  width: 20px;
+  height: 24px;
+  position: relative;
+  margin-right: 3px;
+}
+.blogs-text08 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 19.200000762939453px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.blogs-a4 {
+  display: flex;
+  padding: 15px 16px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.blogs-svg4 {
+  width: 18px;
+  height: 25px;
+  position: relative;
+  margin-right: 2px;
+}
+.blogs-text10 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 19.200000762939453px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.blogs-div2 {
+  display: flex;
+  padding: 150px 186px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+  background-image: linear-gradient(217deg, rgba(17, 16, 16, 0.5799999833106995) 0%, rgba(12, 8, 24, 0.906000018119812) 100%);
+}
+.blogs-div3 {
+  display: flex;
+  padding: 10px 104px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+}
+.blogs-text12 {
+  color: rgba(255, 255, 255, 1);
+  width: 301px;
+  height: auto;
+  font-size: 35.79999923706055px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 500;
+  line-height: 44.15999984741211px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0px;
+  text-decoration: none;
+}
+.blogs-text13 {
+  color: rgba(255, 255, 255, 1);
+  font-weight: 500;
+}
+.blogs-text15 {
+  color: rgba(255, 255, 255, 1);
+  width: 353px;
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0px;
+  text-decoration: none;
+}
+.blogs-text17 {
+  color: rgba(255, 255, 255, 1);
+  width: 932px;
+  height: auto;
+  font-size: 35.79999923706055px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 500;
+  line-height: 44.15999984741211px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0px;
+  text-decoration: none;
+}
+.blogs-text18 {
+  color: rgba(255, 255, 255, 1);
+  font-weight: 500;
+}
+.blogs-div4 {
+  display: flex;
+  padding: 1px;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 4px 5px 3px rgba(119, 53, 136, 0.414000004529953) ;
+  align-items: flex-start;
+  border-color: rgba(0, 0, 0, 0.11249999701976776);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  margin-bottom: 0px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 0.0020000000949949026);
+}
+.blogs-studentmanagementsystempng {
+  width: 328px;
+  height: 216px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 10px;
+  margin-bottom: 0px;
+}
+.blogs-div5 {
+  display: flex;
+  padding: 20px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+}
+.blogs-text20 {
+  color: rgba(255, 255, 255, 0.8999999761581421);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 15px;
+  text-decoration: none;
+}
+.blogs-text22 {
+  color: rgba(255, 255, 255, 0.8999999761581421);
+  width: 288px;
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 15px;
+  text-decoration: none;
+}
+.blogs-a5 {
+  display: flex;
+  padding: 6px 13px;
+  position: relative;
+  align-items: center;
+  border-color: rgba(98, 54, 134, 0.8999999761581421);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: rgba(98, 54, 134, 0.8999999761581421);
+}
+.blogs-svg5 {
+  width: 16px;
+  height: 24px;
+  position: relative;
+  margin-right: 4px;
+}
+.blogs-text24 {
+  color: rgba(255, 255, 255, 0.8999999761581421);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 19px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.blogs-div6 {
+  display: flex;
+  padding: 1px;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 4px 5px 3px rgba(119, 53, 136, 0.414000004529953) ;
+  align-items: flex-start;
+  border-color: rgba(0, 0, 0, 0.11249999701976776);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 0.0020000000949949026);
+}
+.blogs-image {
+  width: 328px;
+  height: 231px;
+  position: relative;
+  border-color: transparent;
+  border-radius: 10px;
+  margin-bottom: 0px;
+}
+.blogs-div7 {
+  display: flex;
+  padding: 20px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+}
+.blogs-text26 {
+  color: rgba(255, 255, 255, 0.8999999761581421);
+  height: auto;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 15px;
+  text-decoration: none;
+}
+.blogs-text28 {
+  color: rgba(255, 255, 255, 0.8999999761581421);
+  width: 288px;
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 15px;
+  text-decoration: none;
+}
+.blogs-a6 {
+  display: flex;
+  padding: 6px 13px;
+  position: relative;
+  align-items: center;
+  border-color: rgba(98, 54, 134, 0.8999999761581421);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: rgba(98, 54, 134, 0.8999999761581421);
+}
+.blogs-svg6 {
+  width: 16px;
+  height: 24px;
+  position: relative;
+  margin-right: 4px;
+}
+.blogs-text30 {
+  color: rgba(255, 255, 255, 0.8999999761581421);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 19px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}

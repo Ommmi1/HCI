@@ -1,0 +1,974 @@
+.resume-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.resume-resume {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+  background-image: linear-gradient(0deg, rgba(27, 20, 41, 1) 0%, rgba(20, 15, 35, 1) 100%);
+}
+.resume-divscroll {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+}
+.resume-div {
+  display: flex;
+  padding: 2px 15px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 0px;
+}
+.resume-text {
+  color: rgba(199, 112, 240, 1);
+  width: 62px;
+  height: auto;
+  font-size: 19px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 700;
+  line-height: 30px;
+  font-stretch: normal;
+  margin-right: 294px;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resume-div01 {
+  display: flex;
+  padding: 0 20px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.resume-a {
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 25px;
+  justify-content: center;
+}
+.resume-svg {
+  width: 19px;
+  height: 20px;
+  position: relative;
+  margin-right: 2px;
+}
+.resume-text02 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 19.200000762939453px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resume-a1 {
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 25px;
+}
+.resume-svg1 {
+  width: 20px;
+  height: 19px;
+  position: relative;
+  margin-right: 2px;
+}
+.resume-text04 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 19.200000762939453px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resume-a2 {
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 25px;
+}
+.resume-svg2 {
+  width: 20px;
+  height: 24px;
+  position: relative;
+  margin-right: 13px;
+}
+.resume-text06 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 19.200000762939453px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resume-a3 {
+  display: flex;
+  padding: 16px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 25px;
+}
+.resume-svg3 {
+  width: 20px;
+  height: 24px;
+  position: relative;
+  margin-right: 3px;
+}
+.resume-text08 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 19.200000762939453px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resume-a4 {
+  display: flex;
+  padding: 15px 16px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.resume-svg4 {
+  width: 18px;
+  height: 25px;
+  position: relative;
+  margin-right: 2px;
+}
+.resume-text10 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 19.200000762939453px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resume-div02 {
+  display: flex;
+  padding: 89px 241px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+  background-image: linear-gradient(217deg, rgba(17, 16, 16, 0.5799999833106995) 0%, rgba(12, 8, 24, 0.906000018119812) 100%);
+}
+.resume-div03 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+}
+.resume-a5 {
+  display: flex;
+  padding: 9px 13px;
+  position: relative;
+  align-items: center;
+  border-color: rgba(98, 54, 134, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  margin-bottom: 115px;
+  justify-content: center;
+  background-color: rgba(98, 54, 134, 1);
+}
+.resume-svg5 {
+  width: 16px;
+  height: 17px;
+  position: relative;
+  margin-right: 2px;
+}
+.resume-text12 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 19px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resume-div04 {
+  display: flex;
+  padding: 10px 0 50px 0;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 115px;
+  justify-content: center;
+}
+.resume-div05 {
+  display: flex;
+  padding: 30px 15px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-right: 0px;
+  flex-direction: column;
+  justify-content: center;
+}
+.resume-text14 {
+  color: rgba(255, 255, 255, 1);
+  width: 333px;
+  height: auto;
+  font-size: 31px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 700;
+  line-height: 38.400001525878906px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 41px;
+  text-decoration: none;
+}
+.resume-div06 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: rgba(138, 73, 168, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 41px;
+  flex-direction: column;
+  justify-content: center;
+}
+.resume-h5 {
+  display: flex;
+  padding: 7px 31.00311279296875px 9px 31.1875px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 6px;
+  justify-content: center;
+  background-color: rgba(82, 52, 121, 0.36500000953674316);
+}
+.resume-text16 {
+  color: rgba(255, 255, 255, 1);
+  width: 386px;
+  height: auto;
+  font-size: 14.399999618530273px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 600;
+  line-height: 18px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resume-text18 {
+  color: rgba(255, 255, 255, 1);
+  width: 428px;
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resume-div07 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: rgba(138, 73, 168, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 41px;
+  flex-direction: column;
+}
+.resume-h501 {
+  display: flex;
+  padding: 8px 26.265625px 9px 27px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 6px;
+  justify-content: center;
+  background-color: rgba(82, 52, 121, 0.36500000953674316);
+}
+.resume-text20 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13.399999618530273px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 600;
+  line-height: 17px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resume-text22 {
+  color: rgba(255, 255, 255, 1);
+  width: 428px;
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resume-div08 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: rgba(138, 73, 168, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 41px;
+  flex-direction: column;
+}
+.resume-h502 {
+  display: flex;
+  padding: 8px 26.59375px 9px 27px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 6px;
+  justify-content: center;
+  background-color: rgba(82, 52, 121, 0.36500000953674316);
+}
+.resume-text24 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13.399999618530273px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 600;
+  line-height: 17px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resume-text26 {
+  color: rgba(255, 255, 255, 1);
+  width: 428px;
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resume-text28 {
+  color: rgba(255, 255, 255, 1);
+  width: 168px;
+  height: auto;
+  font-size: 31px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 700;
+  line-height: 38.400001525878906px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 41px;
+  text-decoration: none;
+}
+.resume-div09 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: rgba(138, 73, 168, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 41px;
+  flex-direction: column;
+}
+.resume-h503 {
+  display: flex;
+  padding: 8px 19.9375px 9px 20px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 6px;
+  background-color: rgba(82, 52, 121, 0.36500000953674316);
+}
+.resume-text30 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13.399999618530273px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 600;
+  line-height: 17px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resume-text32 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: italic;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 19px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 6px;
+  text-decoration: none;
+}
+.resume-text34 {
+  color: rgba(255, 255, 255, 1);
+  width: 428px;
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resume-div10 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: rgba(138, 73, 168, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 41px;
+  flex-direction: column;
+}
+.resume-h504 {
+  display: flex;
+  padding: 8px 24.3125px 9px 24px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 6px;
+  background-color: rgba(82, 52, 121, 0.36500000953674316);
+}
+.resume-text36 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13.399999618530273px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 600;
+  line-height: 17px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resume-text38 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: italic;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 19px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 6px;
+  text-decoration: none;
+}
+.resume-text40 {
+  color: rgba(255, 255, 255, 1);
+  width: 428px;
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resume-div11 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: rgba(138, 73, 168, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  flex-direction: column;
+}
+.resume-h505 {
+  display: flex;
+  padding: 8px 25.890625px 9px 27px;
+  position: relative;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-bottom: 6px;
+  background-color: rgba(82, 52, 121, 0.36500000953674316);
+}
+.resume-text42 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13.399999618530273px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 600;
+  line-height: 17px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resume-text44 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: italic;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 19px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 6px;
+  text-decoration: none;
+}
+.resume-text46 {
+  color: rgba(255, 255, 255, 1);
+  width: 428px;
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resume-div12 {
+  display: flex;
+  padding: 30px 62px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.resume-text48 {
+  color: rgba(255, 255, 255, 1);
+  width: 151px;
+  height: auto;
+  font-size: 31px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 700;
+  line-height: 38.400001525878906px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 43px;
+  text-decoration: none;
+}
+.resume-div13 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: rgba(138, 73, 168, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 43px;
+  flex-direction: column;
+  justify-content: center;
+}
+.resume-h506 {
+  display: flex;
+  padding: 8px 24.546875px 9px 23px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 6px;
+  justify-content: center;
+  background-color: rgba(82, 52, 121, 0.36500000953674316);
+}
+.resume-text50 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13.399999618530273px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 600;
+  line-height: 17px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resume-text52 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: italic;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 19px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 6px;
+  text-decoration: none;
+}
+.resume-text54 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 19px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resume-div14 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: rgba(138, 73, 168, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 43px;
+  flex-direction: column;
+  justify-content: center;
+}
+.resume-h507 {
+  display: flex;
+  padding: 8px 24.03125px 9px 24px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 6px;
+  justify-content: center;
+  background-color: rgba(82, 52, 121, 0.36500000953674316);
+}
+.resume-text56 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13.399999618530273px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 600;
+  line-height: 17px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resume-text58 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: italic;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 19px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 6px;
+  text-decoration: none;
+}
+.resume-text60 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 19px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resume-div15 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: rgba(138, 73, 168, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  margin-bottom: 43px;
+  flex-direction: column;
+  justify-content: center;
+}
+.resume-h508 {
+  display: flex;
+  padding: 8px 24.109375px 9px 24px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 6px;
+  justify-content: center;
+  background-color: rgba(82, 52, 121, 0.36500000953674316);
+}
+.resume-text62 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13.399999618530273px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 600;
+  line-height: 17px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resume-text64 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: italic;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 19px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 6px;
+  text-decoration: none;
+}
+.resume-text66 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 19px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resume-text68 {
+  color: rgba(255, 255, 255, 1);
+  width: 191px;
+  height: auto;
+  font-size: 31px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 700;
+  line-height: 38.400001525878906px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 43px;
+  text-decoration: none;
+}
+.resume-div16 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: rgba(138, 73, 168, 1);
+  border-style: solid;
+  border-width: Symbol(figma.mixed)px;
+  flex-direction: column;
+}
+.resume-h509 {
+  display: flex;
+  padding: 8px 20px 9px 20px;
+  position: relative;
+  align-items: center;
+  border-color: transparent;
+  margin-bottom: 6px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(82, 52, 121, 0.36500000953674316);
+}
+.resume-text70 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 13.399999618530273px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 600;
+  line-height: 17px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resume-text72 {
+  color: rgba(255, 255, 255, 1);
+  width: 428px;
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 24px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.resume-a6 {
+  display: flex;
+  padding: 9px 13px;
+  position: relative;
+  align-items: flex-end;
+  border-color: rgba(98, 54, 134, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: rgba(98, 54, 134, 1);
+}
+.resume-svg6 {
+  width: 16px;
+  height: 17px;
+  position: relative;
+  margin-right: 2px;
+}
+.resume-text77 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Raleway;
+  font-weight: 400;
+  line-height: 19px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
